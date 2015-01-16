@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               theirixblog
 tagline:             'A Few Thoughts About Development'
 description:         ''
-url:                 http://theirix.github.io
+url:                 http://blog.omniverse.ru
 baseurl:             /
 paginate:            5
 
