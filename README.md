@@ -1,4 +1,4 @@
-blog.omniverse.ru
+theirix.github.io
 =================
 
-Small own github page
+Moved to http://omniverse.ru
